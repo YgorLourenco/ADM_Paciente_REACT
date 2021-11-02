@@ -1,6 +1,7 @@
 # Administrador de marcação de consulta de Pet Shop em React
 
 Tecnologias usadas:
+- JavaScript
 - React
 - Skeleton CSS
 
